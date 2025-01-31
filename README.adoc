@@ -1,4 +1,3 @@
-
 = Ustawa o Korzystaniu z Substancji Psychoaktywnych z dnia 31.01.2025
 :subtitle: Zwana dalej: "Ustawą" lub "Ustawą o korzystaniu"
 :version-label: Wersja
@@ -19,20 +18,20 @@
 ____
 Aby nigdy nie przegrać
 
-W życiu, w którym szansa jest tylko jedna
+W życiu, w którym szansa jest jedna
 ____
 
 
 [discrete]
 == Historia zmian
 
-* 31.01.2025 Utworzenie dokumentu. Ratyfikacja dokumentu.
+* *31.01.2025* Utworzenie dokumentu. Ratyfikacja dokumentu.
 
 == Wejście w życie
 
-Ustawa wchodzi w życie z dniem 01.02.2025.
+Ustawa wchodzi w życie z dniem *01.02.2025*.
 
-Wszelkie zmiany od tego momentu podlegają 7-dniowym Vacatio Legis.
+Wszelkie zmiany od tego momentu podlegają *7-dniowym Vacatio Legis*.
 
 == Zasady ogólne
 
@@ -47,19 +46,23 @@ CASUS
 
 === Przed użyciem
 
-Przed każdorazowym użyciem jakiejkolwiek substancji, oprócz wymienionych poniżej wyjątków, należy:
+Przed *każdorazowym* użyciem *jakiejkolwiek* substancji, oprócz wymienionych poniżej wyjątków, należy:
 
 * [ ] Podać przyczynę oraz podstawę do użycia
-* [ ] Dokonać Rachunku Zysków i Strat
-* [ ] Upewnić się, że nie ma miejsce "ćpuńska akcja"
+* [ ] Dokonać `Rachunku Zysków i Strat`
+* [ ] Upewnić się, że nie ma miejsce `ćpuńska akcja`
+
+Wyjątki:
+
+* brak
 
 ==== Podać przyczynę oraz podstawę do użycia
 
-. Przyczyna musi odpowiadać Dozwolonemu użyciu
-. Przyczyna nie może odpowiadać Niedozwolonemu użyciu
-. W przypadku braku Dozwolonego lub Niedozwolonego użycia, należy dokonać procesu Onboardingu Nowej Substancji
+. Przyczyna musi odpowiadać `Dozwolonemu użyciu`
+. Przyczyna nie może odpowiadać `Niedozwolonemu użyciu`
+. W przypadku braku `Dozwolonego` lub `Niedozwolonego użycia`, należy dokonać procesu `Onboardingu Nowej Substancji`
 
-==== Dokonać Rachunku Zysków i Strat
+==== Dokonać `Rachunku Zysków i Strat`
 
 . Czy nie zaburzy mi to treningu?
 . Czy nie zaburzy mi to snu?
@@ -69,9 +72,9 @@ Przed każdorazowym użyciem jakiejkolwiek substancji, oprócz wymienionych poni
 . Czy nie zaburzy mi to interakcji międzyludzkich w danym dniu i następnym?
 ** Np. bycie "nadwyraz spokojnym" po stymulantach, spłaszczenie uczuć po THC
 
-==== Upewnić się, że nie ma miejsce "ćpuńska akcja"
+==== Upewnić się, że nie ma miejsce `ćpuńska akcja`
 
-Ćpuńska akcja ma miejsce, kiedy nie ma Podstawy do użycia i/lub Rachunek zysków i strat wychodzi na minus lub nie wychodzi na plus, a mimo to wciąż ma miejsce dalsza chęć użycia.
+`Ćpuńska akcja` ma miejsce, kiedy nie ma Podstawy do użycia i/lub `Rachunek zysków i strat` wychodzi na minus lub nie wychodzi na plus, a mimo to wciąż ma miejsce dalsza chęć użycia.
 
 Świadczy to wtedy o sytuacji niewłaściwej, niezgodnej z ustanowioną polityką.
 
@@ -83,21 +86,34 @@ Rozsądny człowiek w obliczu jednoznacznych informacji nie dokonuje niekorzystn
 
 W poniższych miejscach:
 
-. Kalendarzu (Proton)
-. Dzienniku (PsychonautWiki Journal)
+* [ ] Kalendarzu (Proton)
+* [ ] Dzienniku (PsychonautWiki Journal)
 
 Dla użycia, które nie wykorzystuje wiedzy z poprzednich doświadczeń, (tj. mamy do czynienia z nową substancją, drogą administracji, S&S itp.) należy zapisać w miejscu do raportowania następujące informacje:
 
-. Nazwa substancji
-. Droga administracji
-. Dawka
-. Zaistniałe efekty
-. Czas trwania
-. Opis
+[cols="1,2"]
+|===
+| Pole | Wartość
 
+| Nazwa substancji |
+| Droga administracji |
+| Dawka |
+| Zaistniałe efekty |
+| Czas trwania |
+| Opis |
+|===
 
+=== `Onboarding Nowej Substancji`
+
+Sekcja wymaga uzupełnienia.
+
+Nie oznacza to jednak, że można ją obejsć.
+
+Należy ją napierw stworzyć, a potem zrealizować proces `Onboardingu`.
 
 == Zasady dla poszczególnych substancji
+
+=== Ketony
 
 === Opioidy
 
@@ -118,9 +134,21 @@ Nie powinien być używany, kurwa, w ogóle.
 
 Zamiast tego należy używać DHC lub spróbować używać morfiny.
 
+DHC przede wszystkim nie zamula tak bardzo!
+
 ===== Dozwolone użycia
 
 Chyba tylko wtedy, kiedy chcesz miesiącami czołgać się z życiem, bo jest wydajny w plastrach.
 Ale to jest i tak obarczone ogromnym kosztem i naprawdę należy najpierw spróbować ogarnąć życie standardowymi sposobami, następnie przy użyciu wszystkich innych opioidów, i dopiero wtedy, gdy nic innego nie działa, w ostateczności, można użyć fentanylu.
 
 ===== Niedozwolone użycie
+
+Chciałoby się rzec: każde.
+
+===== Sposoby schodzenia
+
+====== Redukcja dawek
+
+====== Schodzenie bokiem
+
+To może być przełomowa opcja - po prostu przechodzimy na DHC i tam już sobie elegancko schodzimy powolutku i nie jesteśmy też zamuleni tak.
