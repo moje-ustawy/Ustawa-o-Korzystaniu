@@ -1,1 +1,126 @@
 
+= Ustawa o Korzystaniu z Substancji Psychoaktywnych z dnia 31.01.2025
+:subtitle: Zwana dalej: "Ustawą" lub "Ustawą o korzystaniu"
+:version-label: Wersja
+:version-number: 1.0/31.01.2025
+:doctype: book
+:toc: left
+:toclevels: 4
+:sectnums:
+:chapter-label: Rozdział
+:section-label: Art.
+:partnums:
+:toc-title: Spis Treści
+
+[discrete]
+== Preambuła
+
+[quote]
+____
+Aby nigdy nie przegrać
+
+W życiu, w którym szansa jest tylko jedna
+____
+
+
+[discrete]
+== Historia zmian
+
+* 31.01.2025 Utworzenie dokumentu. Ratyfikacja dokumentu.
+
+== Wejście w życie
+
+Ustawa wchodzi w życie z dniem 01.02.2025.
+
+Wszelkie zmiany od tego momentu podlegają 7-dniowym Vacatio Legis.
+
+== Zasady ogólne
+
+====
+
+CASUS
+
+. Aby nie popełniać dwa razy tego samego błędu w przypadku niepowodzenia
+. Aby na podstawie oczekiwań odnośnie efektów oraz czasu trwania dobrać odpowiednie wartości
+. Aby mieć stworzone wytyczne odnośnie właściwego dawkowania i czasu trwania, co wpisuje się w zasadę "Know Your Substance"
+====
+
+=== Przed użyciem
+
+Przed każdorazowym użyciem jakiejkolwiek substancji, oprócz wymienionych poniżej wyjątków, należy:
+
+* [ ] Podać przyczynę oraz podstawę do użycia
+* [ ] Dokonać Rachunku Zysków i Strat
+* [ ] Upewnić się, że nie ma miejsce "ćpuńska akcja"
+
+==== Podać przyczynę oraz podstawę do użycia
+
+. Przyczyna musi odpowiadać Dozwolonemu użyciu
+. Przyczyna nie może odpowiadać Niedozwolonemu użyciu
+. W przypadku braku Dozwolonego lub Niedozwolonego użycia, należy dokonać procesu Onboardingu Nowej Substancji
+
+==== Dokonać Rachunku Zysków i Strat
+
+. Czy nie zaburzy mi to treningu?
+. Czy nie zaburzy mi to snu?
+. Czy nie zaburzy mi to poranka?
+. Czy nie zaburzy mi to planów rozwojowych?
+. Czy nie zaburzy mi to "robienia rzeczy"?
+. Czy nie zaburzy mi to interakcji międzyludzkich w danym dniu i następnym?
+** Np. bycie "nadwyraz spokojnym" po stymulantach, spłaszczenie uczuć po THC
+
+==== Upewnić się, że nie ma miejsce "ćpuńska akcja"
+
+Ćpuńska akcja ma miejsce, kiedy nie ma Podstawy do użycia i/lub Rachunek zysków i strat wychodzi na minus lub nie wychodzi na plus, a mimo to wciąż ma miejsce dalsza chęć użycia.
+
+Świadczy to wtedy o sytuacji niewłaściwej, niezgodnej z ustanowioną polityką.
+
+Rozsądny człowiek w obliczu jednoznacznych informacji nie dokonuje niekorzystnego wyboru, gdyż wtedy przestaje być rozsądnym człowiekiem i staje się głupcem.
+
+=== Po użyciu
+
+==== Zapisać każde jednorazowe użycie
+
+W poniższych miejscach:
+
+. Kalendarzu (Proton)
+. Dzienniku (PsychonautWiki Journal)
+
+Dla użycia, które nie wykorzystuje wiedzy z poprzednich doświadczeń, (tj. mamy do czynienia z nową substancją, drogą administracji, S&S itp.) należy zapisać w miejscu do raportowania następujące informacje:
+
+. Nazwa substancji
+. Droga administracji
+. Dawka
+. Zaistniałe efekty
+. Czas trwania
+. Opis
+
+
+
+== Zasady dla poszczególnych substancji
+
+=== Opioidy
+
+==== Fentanyl
+
+Nie powinien być używany, kurwa, w ogóle.
+
+* Praktycznie uniemożliwia FSTX (!)
+* Prawie całkowicie niweczy możliwość uprawiania sportu (!!)
+* Bardzo istotnie niweczy możliwości rozwoju (!!)
+* Powoduje, że rano za chuj nie da się wstać (!!!)
+* Powoduje olbrzymie zużycie kofeiny
+* Prawdopodbnie powoduje upośledzenie układu nagrody
+* Z biegiem czasu przestaje działać
+* Wybitnie ciężko jest nie wziąć drugiej dawki w ciągu dnia
+* Ciężko jest nie wziąć drugi dzień z rzędu
+* Uzależnienie kosztuje 7 dni L4 oraz 7 dni dyskomfortu = 14 dni
+
+Zamiast tego należy używać DHC lub spróbować używać morfiny.
+
+===== Dozwolone użycia
+
+Chyba tylko wtedy, kiedy chcesz miesiącami czołgać się z życiem, bo jest wydajny w plastrach.
+Ale to jest i tak obarczone ogromnym kosztem i naprawdę należy najpierw spróbować ogarnąć życie standardowymi sposobami, następnie przy użyciu wszystkich innych opioidów, i dopiero wtedy, gdy nic innego nie działa, w ostateczności, można użyć fentanylu.
+
+===== Niedozwolone użycie
